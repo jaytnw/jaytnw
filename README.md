@@ -28,10 +28,4 @@ I'm a Machine Learning Engineer and Full-Stack Developer, specializing in Comput
 * [Object Detection based on Web Browser](http://odt.jaytnw.com)
 * [Other Project](http://jaytnw.com)
 
-### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/jaytnw"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
