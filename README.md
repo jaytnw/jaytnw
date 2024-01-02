@@ -1,8 +1,13 @@
-Hi 👋 My name is Jay Thanawut
+Hi 👋 I'm Jay
 =============================
 
-I specialize in Machine Learning Engineering, Computer Vision, 3D Stereoscopic, Embedded Systems, Autonomous Drones, and Software Engineering."
+I'm a Machine Learning Engineer and Full-Stack Developer, specializing in Computer Vision, 3D Stereoscopic, Embedded Systems, Autonomous Drones, and Web & Infrastructure development.
 ------------------------------------------------
+
+- 🔭 I’m currently working on:
+  - _Co-Founder at WASH EASY Co.,Ltd
+  - _Researching and implementing obstacle detection and avoidance algorithms, along with optimizations, to reduce processing and time complexity for embedded computing or Single-Board Computers in Autonomous Drones.
+  - _Hobbyist Project.
 
 * 🌍  I'm based in Bangkok and Khon Kaen, Thailand.
 * 🖥️  See my portfolio at [jaytnw.com](http://jaytnw.com)
