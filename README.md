@@ -9,9 +9,9 @@ I'm a Machine Learning Engineer and Full-Stack Developer, specializing in Comput
   - Researching and implementing obstacle detection and avoidance algorithms, along with optimizations, to reduce processing and time complexity for embedded computing or Single-Board Computers in Autonomous Drones.
   - Hobbyist Project.
 
-* 🌍  I'm based in Bangkok and Khon Kaen, Thailand.
 * 🖥️  See my portfolio at [jaytnw.com](http://jaytnw.com)
-* ✉️  You can contact me at [thanawut@kkumail.com](mailto:thanawut@kkumail.com)
+
+## Project
 
 ### Skills
 
