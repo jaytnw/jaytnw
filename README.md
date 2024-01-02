@@ -5,6 +5,7 @@ I'm a Machine Learning Engineer and Full-Stack Developer, specializing in Comput
 
 - 🔭 I’m currently working on:
   - Co-Founder at WASH EASY Co.,Ltd
+  - Project Manager for a product at H2IComm, Khon Kaen University
   - Researching and implementing obstacle detection and avoidance algorithms, along with optimizations, to reduce processing and time complexity for embedded computing or Single-Board Computers in Autonomous Drones.
   - Hobbyist Project.
 
