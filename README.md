@@ -16,7 +16,7 @@ I'm a Machine Learning Engineer and Full-Stack Developer, specializing in Comput
 * [Petdy](http://petdy.jaytnw.com)
 * [QRMoo](http://qrmoo.jaytnw.com)
 * [Waver](http://waver.jaytnw.com)
-* [Heartrate based on Webcam](http://heartrate.jaytnw.com)
+* [Heart Rate based on Webcam](http://heartrate.jaytnw.com)
 * [Rama8](http://rama8.jaytnw.com)
 * [4km](http://4km.jaytnw.com)
 * [Sun Sticker](http://sun.jaytnw.com)
