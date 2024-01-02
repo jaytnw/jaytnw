@@ -30,4 +30,5 @@ I'm a Machine Learning Engineer and Full-Stack Developer, specializing in Comput
 
 
 ![Screenshot](https://raw.githubusercontent.com/jaytnw/jaytnw/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Screenshot](https://raw.githubusercontent.com/jaytnw/jaytnw/output/github-contribution-grid-snake-dark.svg)
 
