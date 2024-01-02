@@ -1,7 +1,7 @@
 Hi 👋 My name is Jay Thanawut
 =============================
 
-I'm a Machine Learning Engineer, Computer Vision specializing in 3D Stereoscopic, Embedded System, and Software Engineer
+I'm a Machine Learning Engineer, Computer Vision specializing in 3D Stereoscopic, Embedded System, and Software Engineer.
 ------------------------------------------------
 
 * 🌍  I'm based in Bangkok and Khon Kaen, Thailand.
