@@ -13,7 +13,18 @@ I'm a Machine Learning Engineer and Full-Stack Developer, specializing in Comput
 
 ## Project
 
-
+* [Petdy](http://petdy.jaytnw.com)
+* [QRMoo](http://qrmoo.jaytnw.com)
+* [Waver](http://waver.jaytnw.com)
+* [Heartrate uning Webcam](http://heartrate.jaytnw.com)
+* [Rama8](http://rama8.jaytnw.com)
+* [4km](http://4km.jaytnw.com)
+* [Sun Sticker](http://sun.jaytnw.com)
+* [PMPOP Vote66](http://vote66.jaytnw.com)
+* [Popkai](http://popkai.jaytnw.com)
+* [Sw Poll](http://swpoll.jaytnw.com)
+* [Live Parliament](http://live.jaytnw.com)
+* [Object Detection on Web Browser](http://odt.jaytnw.com)
 
 ### Support Me
 
