@@ -30,3 +30,4 @@ I'm a Machine Learning Engineer and Full-Stack Developer, specializing in Comput
 
 
 ![Screenshot](/profile-night-rainbow.svg)
+![Alt text](/profile-night-rainbow.svg?raw=true "Profile")
