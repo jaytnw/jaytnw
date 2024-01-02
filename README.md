@@ -29,5 +29,5 @@ I'm a Machine Learning Engineer and Full-Stack Developer, specializing in Comput
 * [Other Project](http://jaytnw.com)
 
 
-![Screenshot]([/profile-night-rainbow.svg])
+![Screenshot]([[/profile-night-rainbow.svg]](https://github.com/jaytnw/jaytnw/blob/main/profile-3d-contrib/profile-night-rainbow.svg)https://github.com/jaytnw/jaytnw/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
