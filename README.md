@@ -1,7 +1,7 @@
 Hi 👋 I'm Jay
 =============================
 
-I'm a Machine Learning Engineer and Full-Stack Developer, specializing in Computer Vision, 3D Stereoscopic, Embedded Systems, Autonomous Drones, and Web & Infrastructure development.
+I'm a Software Engineer, specializing in Computer Vision, 3D Stereoscopic, Embedded Systems, Autonomous Drones, and Web & Infrastructure development.
 
 - 🔭 I’m currently working on:
   - Co-Founder at WASH EASY Co.,Ltd
