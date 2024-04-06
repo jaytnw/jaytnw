@@ -10,6 +10,7 @@ I'm a Software Engineer, specializing in Computer Vision, 3D Stereoscopic, Embed
   - Hobbyist Project.
 
 * 🖥️  See my portfolio at [jaytnw.com](http://jaytnw.com)
+* ☁️ [Google Cloud Skills Boost badge ](https://www.cloudskillsboost.google/public_profiles/683d22d0-6f58-4e9b-9fd8-e5c7f7fe7999) 
 
 ## Side Project
 
