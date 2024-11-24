@@ -14,6 +14,7 @@ I'm a Software Engineer, specializing in Computer Vision, 3D Stereoscopic, Embed
 
 ## Side Project
 
+* [Popdeng.click](http://popdeng.click)
 * [Petdy](http://petdy.jaytnw.com)
 * [QRMoo](http://qrmoo.jaytnw.com)
 * [Waver](http://waver.jaytnw.com)
@@ -25,8 +26,6 @@ I'm a Software Engineer, specializing in Computer Vision, 3D Stereoscopic, Embed
 * [Bangkok road](http://road.jaytnw.com)
 * [POPPM Vote66](http://vote66.jaytnw.com)
 * [Popkai](http://popkai.jaytnw.com)
-* [Sw Poll](http://swpoll.jaytnw.com)
-* [Live Parliament](http://live.jaytnw.com)
 * [Object Detection based on Web Browser](http://odt.jaytnw.com)
 * [Other Project](http://jaytnw.com)
 
