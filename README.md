@@ -16,7 +16,7 @@ I'm a Software Engineer, specializing in Computer Vision, 3D Stereoscopic, Embed
 
 * [Popdeng.click](https://popdeng.click)
 * [Petdy](https://petdy.jaytnw.com)
-* [Typhhon AI](https://typhoon.jaytnw.com)
+* [Typhoon AI](https://typhoon.jaytnw.com)
 * [QRMoo](https://qrmoo.jaytnw.com)
 * [Waver](https://waver.jaytnw.com)
 * [Heart Rate based on Webcam](https://heartrate.jaytnw.com)
