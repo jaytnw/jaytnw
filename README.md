@@ -1,19 +1,21 @@
 Hi 👋 I'm Jay
 =============================
 
-I'm a Software Engineer, specializing in Computer Vision, 3D Stereoscopic, Embedded Systems, Autonomous Drones, and Web & Infrastructure development.
+I'm a Lead Software Engineer and Tech Co‑Founder with a strong focus on high‑performance distributed systems, scalable architecture, and innovation in IoT, AI/ML, LLM integration, Computer Vision, 3D Stereoscopic Systems, Autonomous Drones, Embedded Systems, and Web & Infrastructure development.
 
-- 🔭 I’m currently working on:
-  - Co-Founder at WASH EASY Co.,Ltd
-  - Project Manager for a product at H2IComm, Khon Kaen University
-  - Researching and implementing obstacle detection and avoidance algorithms, along with optimizations, to reduce processing and time complexity for embedded computing or Single-Board Computers in Autonomous Drones.
-  - Hobbyist Project.
+🖥️  Portfolio: [jaytnw.com](http://jaytnw.com)
 
-* 🖥️  See my portfolio at [jaytnw.com](http://jaytnw.com)
-* ☁️ [Google Cloud Skills Boost badge ](https://www.cloudskillsboost.google/public_profiles/683d22d0-6f58-4e9b-9fd8-e5c7f7fe7999) 
+☁️  [Google Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/683d22d0-6f58-4e9b-9fd8-e5c7f7fe7999)
+
+### Highlights
+- Architected high‑performance distributed systems (REST APIs, WebSocket, MQTT) on GCP and on‑premises
+- Experienced in IoT, drones, e‑commerce platforms, LLM/AI integration, and full‑stack development
+- Led engineering teams and delivered solutions across AI/ML, cloud infrastructure, and embedded computing
+
 
 ## Side Project
 
+* [Clckwar.games](https://clickwar.games)
 * [Popdeng.click](https://popdeng.click)
 * [Petdy](https://petdy.jaytnw.com)
 * [Typhoon AI](https://typhoon.jaytnw.com)
