@@ -1,7 +1,8 @@
 Hi 👋 I'm Jay
 =============================
 
-I'm a Lead Software Engineer and Tech Co‑Founder with a strong focus on high‑performance distributed systems, scalable architecture, and innovation in IoT, AI/ML, LLM integration, Computer Vision, 3D Stereoscopic Systems, Autonomous Drones, Embedded Systems, and Web & Infrastructure development.
+I'm a Lead Software Engineer and Tech Co‑Founder with a strong focus on high‑performance **distributed systems, microservices architecture, and modern web development**.  
+My expertise spans **IoT, AI/ML, LLM integration, Computer Vision, 3D Stereoscopic Systems, Autonomous Drones, Embedded Systems, and scalable Web & Infrastructure engineering**.
 
 🖥️  Portfolio: [jaytnw.com](http://jaytnw.com)
 
