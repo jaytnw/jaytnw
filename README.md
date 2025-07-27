@@ -8,7 +8,7 @@ I'm a Lead Software Engineer and Tech Co‑Founder with a strong focus on high�
 ☁️  [Google Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/683d22d0-6f58-4e9b-9fd8-e5c7f7fe7999)
 
 ### Highlights
-- Architected high‑performance distributed systems (REST APIs, WebSocket, MQTT) on GCP and on‑premises
+- Architected high‑performance distributed systems 
 - Experienced in IoT, drones, e‑commerce platforms, LLM/AI integration, and full‑stack development
 - Led engineering teams and delivered solutions across AI/ML, cloud infrastructure, and embedded computing
 
