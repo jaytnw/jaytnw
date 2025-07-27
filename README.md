@@ -1,15 +1,14 @@
 Hi 👋 I'm Jay
 =============================
 
-I'm a Lead Software Engineer and Tech Co‑Founder with a strong focus on high‑performance **distributed systems, microservices architecture, and modern web development**.  
-My expertise spans **IoT, AI/ML, LLM integration, Computer Vision, 3D Stereoscopic Systems, Autonomous Drones, Embedded Systems, and scalable Web & Infrastructure engineering**.
+I'm a Lead Software Engineer and Tech Co‑Founder with a strong focus on high‑performance distributed systems, microservices architecture, modern web development, scalable architecture, and innovation in IoT, AI/ML, LLM integration, Computer Vision, 3D Stereoscopic Systems, Autonomous Drones, Embedded Systems, and Web & Infrastructure development.
 
 🖥️  Portfolio: [jaytnw.com](http://jaytnw.com)
 
 ☁️  [Google Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/683d22d0-6f58-4e9b-9fd8-e5c7f7fe7999)
 
 ### Highlights
-- Architected high‑performance distributed systems 
+- Architected high‑performance distributed systems and microservices
 - Experienced in IoT, drones, e‑commerce platforms, LLM/AI integration, and full‑stack development
 - Led engineering teams and delivered solutions across AI/ML, cloud infrastructure, and embedded computing
 
